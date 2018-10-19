@@ -1,2 +1,2 @@
-# bellaworks
-These contain Bellaworks projects
+# banco wp template
+WP Files repo
